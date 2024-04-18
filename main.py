@@ -1,3 +1,10 @@
+'''
+CS540 Operating Systems: Programming Assingment #4
+
+Jordan Trotter (D362Y854)
+https://github.com/MetaJT/PageReplacementAlgorithms.git
+'''
+
 from PageReplacement import *
 
 def main():
