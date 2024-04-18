@@ -4,12 +4,10 @@ _CS540 Operating Systems: Programming Assignment #4_
 
 _**Objective: Write a script to implement different page replacement algorithms.**_
 
-For this assignment, I demonstrated the following page replacement algorithms in Python:
+For this assignment, I demonstrated the following page replacement algorithms in `Python`:
 - `LRU` (Least Recently Used)
 - `OPT` (Optimal)
 - `FIFO` (First In First Out)
-
-To complete this assignment 
 
 ## How it works
 - In `main.py` we call for the `PageReplacement class` to access the different page replacement algorithms.
