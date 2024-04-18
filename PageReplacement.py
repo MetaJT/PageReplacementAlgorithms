@@ -25,7 +25,7 @@ class PageReplacement:
 
         print(f"Total Page Faults: {self.faults}")
 
-    def optimal(self): # Optimal
+    def opt(self): # Optimal
         for step, page in enumerate(self.reference_string):
             if page not in self.pages:
                 if len(self.pages) == self.frames:
