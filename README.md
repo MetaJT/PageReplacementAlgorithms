@@ -13,6 +13,7 @@ To complete this assignment
 
 ## How it works
 - The main function calls for the `PageReplacement class` to access the different page replacement algorithms.
+- In the `main.py` program each of the algorithms are called and will display their results accordingly in the terminal. 
 
 ## Quick Start
 ```
