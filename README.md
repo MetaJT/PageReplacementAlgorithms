@@ -1,4 +1,4 @@
-# PageReplacementAlgorithms
+# Page Replacement Algorithms
 
 _CS540 Operating Systems: Programming Assignment #4_
 
