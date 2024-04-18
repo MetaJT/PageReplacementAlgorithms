@@ -12,8 +12,8 @@ For this assignment, I demonstrated the following page replacement algorithms in
 To complete this assignment 
 
 ## How it works
-- The main function calls for the `PageReplacement class` to access the different page replacement algorithms.
-- In the `main.py` file each of the algorithms are called and will display their results accordingly in the terminal. 
+- In `main.py` we call for the `PageReplacement class` to access the different page replacement algorithms.
+- In `main.py` each of the algorithms are called and will display their results accordingly in the terminal. 
 
 ## Quick Start
 ```
