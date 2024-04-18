@@ -17,6 +17,6 @@ To complete this assignment
 
 ## Quick Start
 ```
-Click run to run the program in the terminal
+Click run to execute the program in the terminal
 ```
 
